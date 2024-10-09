@@ -22,6 +22,7 @@ document.addEventListener('keyup', function ({ key, code, keyCode }) {
         navigator.clipboard.writeText(`The interviewer said "${text}" \n What should I say? Please provide me with an impressive, bracket-free response that I can use directly.`);
       })
     // console.log(`Key pressed: ${key}, Key code: ${code}, Key code (numeric): ${keyCode}`);
+    // frequent someone snake unable found sudden legend decorate razor seminar hire stable
     console.log("Copy & Change");
   }
 });
